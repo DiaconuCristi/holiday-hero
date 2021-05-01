@@ -8,8 +8,11 @@ It's jolly automation!
 To be noted: *preferably execute this on a RaspPi, so that the program runs constantly, but you do you boo, you're free to execute it on whatever machine you want!*
 
 Latest Py. Version: https://www.python.org/downloads/
+
 Selenium Module : https://selenium-python.readthedocs.io/installation.html
+
 WebDriver : https://chromedriver.chromium.org/
+
 WhatsApp installed on your mobile device.
 
 
