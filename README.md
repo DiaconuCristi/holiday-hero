@@ -16,5 +16,5 @@ WebDriver : https://chromedriver.chromium.org/
 WhatsApp installed on your mobile device.
 
 
-#Important
+# Important
 See Python comments for further instructions on setting the project up.
